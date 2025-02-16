@@ -102,7 +102,7 @@ const WORKS: WorkProps[] = [
     url: "https://www.thalesgroup.com/fr"
   },
   {
-    image: "https://yt3.googleusercontent.com/QdKgBAHzdqPGavuVqKvyNrjXUqVsBdaUinLxbTJ1KDVfvLYKHU5fkiYulo5u2fVrfubBGQZx=s900-c-k-c0x00ffffff-no-rj",
+    image: "/datascientest.jpg",
     title: "DataScientest",
     role: "",
     tag: "School",
